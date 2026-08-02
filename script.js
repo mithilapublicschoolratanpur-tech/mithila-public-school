@@ -1,0 +1,1 @@
+console.log("Mithila Public School Website Started");
